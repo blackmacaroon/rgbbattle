@@ -8,7 +8,7 @@ h1 {
 	text-align: center;
 	line-height: 1.1;
 	font-weight: normal;
-	background: steelblue;
+	background: dimgrey;
 	margin: 0;
 	text-transform: uppercase;
 	padding: 20px 0;
@@ -41,7 +41,7 @@ h1 {
 
 .selected {
 	color: white;
-	background: steelblue;
+	background: dimgrey;
 }
 
 #colorDisplay {
@@ -54,7 +54,7 @@ button {
 	text-transform: uppercase;
 	height: 100%;
 	font-weight: 700;
-	color: steelblue;
+	color: dimgrey;
 	letter-spacing: 1px;
 	font-size: inherit;
 	transition: all 0.3s;
@@ -65,7 +65,7 @@ button {
 
 button:hover {
 	color: white;
-	background: steelblue;
+	background: dimgrey;
 }
 
 #message {
