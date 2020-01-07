@@ -39,6 +39,19 @@ h1 {
 	color: #232323;
 }
 
+#instructions {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: white;
+	text-align: center;
+}
+
+#how-to {
+	width: 70%;
+	justify-content: center;
+}
+
 .selected {
 	color: white;
 	background: dimgrey;
