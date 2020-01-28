@@ -28,7 +28,7 @@ function setUpModeButtons(){
 				numSquares = 3;
 			} else if (this.textContent === "Hard"){
 				numSquares = 6;
-			} else {
+			} else if (this.textContent === "Extra Hard"){
 				numSquares = 9;
 			}
 			reset();
